@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Computers in My HR Career</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f1f5f9;
+            color: #1e293b;
+            margin: 20px;
+            padding: 20px;
+        }
+        header {
+            background-color: #3b82f6;
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        main {
+            max-width: 900px;
+            margin: auto;
+        }
+        section {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 10px;
+            border-radius: 8px;
+        }
+        a {
+            color: #2563eb;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>How Computers Impact My Human Resources Career</h1>
+</header>
+
+<main>
+    <section>
+        <h2>Modern HR Technology</h2>
+        <p>
+            Computers have revolutionized how human resources professionals perform daily tasks. 
+            From recruiting to onboarding, HR systems help streamline operations with greater efficiency. 
+            Applicant Tracking Systems (ATS) allow recruiters to filter and evaluate resumes with ease. 
+            These systems use AI and algorithms to identify the best candidates. 
+            Computers also facilitate virtual interviews and digital hiring platforms. 
+            By automating repetitive work, HR professionals can focus more on strategic initiatives. 
+            The integration of technology in HR helps create faster, more reliable, and more data-driven hiring processes.
+        </p>
+        <img src="https://www.shrm.org/SiteCollectionImages/Articles/hr-tech.jpg" alt="HR technology in action">
+    </section>
+
+    <section>
+        <h2>Essential Tools in HR Workflows</h2>
+        <p>
+            Human resources professionals rely on a variety of software programs to manage employee data. 
+            Systems like SAP SuccessFactors and Workday provide cloud-based HR management tools. 
+            Payroll software automates the complex processes of compensation and benefits administration. 
+            Computers also help HR staff maintain compliance with labor laws through digital documentation. 
+            Hardware tools like biometric scanners aid in employee time tracking and security. 
+            Cloud storage and encrypted communication platforms help protect sensitive employee information. 
+            The use of both hardware and software technologies has made HR departments more agile and secure.
+        </p>
+        <img src="https://www.workday.com/content/dam/web/en-us/images/media-kit/workday-brand-graphic.jpg" alt="Workday HR software interface">
+    </section>
+
+    <section>
+        <h2>HR Innovation Through Connectivity</h2>
+        <p>
+            Communication is essential in HR, and computers make it more dynamic and effective. 
+            Platforms like Microsoft Teams and Zoom have transformed employee engagement in hybrid work models. 
+            Employee surveys, performance reviews, and training programs can all be delivered online. 
+            These digital tools enable HR teams to connect globally without physical boundaries. 
+            Computers also support continuous learning through online courses and certifications. 
+            Analytics software helps HR track productivity, satisfaction, and retention trends. 
+            As the HR field continues to evolve, digital literacy and tech-savviness become critical skills.
+        </p>
+        <img src="https://assets-global.website-files.com/5e9aa66fd388c66e3f8f5c48/63fd338802c23d1ea4b953a0_Microsoft%20Teams%20Blog.jpeg" alt="Collaboration tools in HR">
+    </section>
+
+    <section>
+        <h2>Helpful Links</h2>
+        <ul>
+            <li><a href="https://www.shrm.org/" target="_blank">Society for Human Resource Management (SHRM)</a></li>
+            <li><a href="https://www.workday.com/" target="_blank">Workday - HR and Finance Software</a></li>
+            <li><a href="https://www.sap.com/products/hcm.html" target="_blank">SAP SuccessFactors - HCM Solutions</a></li>
+            <li><a href="https://www.bamboohr.com/" target="_blank">BambooHR - HR Software for Small Business</a></li>
+        </ul>
+    </section>
+</main>
+
+</body>
+</html>
